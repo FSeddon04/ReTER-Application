@@ -1,0 +1,145 @@
+
+html {
+    cursor: none;
+}
+
+body {
+    font-family: Arial;
+    text-align: center;
+    height: 100%;
+    overflow: hidden;
+}
+
+.face img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.light img {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 60px;
+    width: auto;
+    position: relative;
+    top: 12px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    font-weight: normal;
+}
+
+.light {
+    background-color: white;
+    color: black;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    font-weight: normal;
+}
+
+p {
+    margin: 0px;
+}
+
+.spacebar {
+    font-size: 2em;
+    margin-top: 150px;
+}
+
+.spacebar img {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 70px;
+    width: auto;
+    position: relative;
+    top: 10px;
+}
+
+.react {
+    margin-top: 450px;
+    font-size: 5em;
+}
+
+.emotionImg {
+    margin-right: auto;
+    margin-left: auto;
+    height: 1080px;
+    width: auto;
+}
+
+#face {
+    margin-top: 0px;
+}
+
+.button {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+#afraid {
+    padding-right: 200px;
+    padding-left: 200px
+}
+
+#anger {
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+#disgust {
+    padding-right: 190px;
+    padding-left: 190px;
+}
+
+#happy {
+    padding-right: 195px;
+    padding-left: 195px;
+}
+
+#neutral {
+    padding-right: 193px;
+    padding-left: 193px;
+}
+
+#sadness {
+    padding-right: 183px;
+    padding-left: 183px;
+}
+
+#surprised {
+    padding-right: 178px;
+    padding-left: 178px;
+}
+
+#unsure {
+    padding-right: 94px;
+    padding-left: 94px;
+    background-color: rgb(200, 200, 200);
+    border-color: rgb(190, 190, 190);
+    border-radius: 4px;
+}
+
+#buttons {
+    margin-top: 50px;
+}
+
+.buttonText {
+    font-size: 3.5em;
+    margin-top: 170px;
+    margin-bottom: 90px;
+}
+
+.buttonPage {
+    cursor: default; 
+}
